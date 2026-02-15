@@ -55,5 +55,5 @@ COINGECKO_KEY_API=CG-xxxxxxxxxxxxxxxx
 📜 License
 MIT License - feel free to use this project for your own learning!
 ---
-
+```
 <img width="873" height="416" alt="image" src="https://github.com/user-attachments/assets/ace08413-9bf6-47d1-9edb-3ce0de22361b" />
